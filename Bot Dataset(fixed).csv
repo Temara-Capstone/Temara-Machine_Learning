@@ -590,9 +590,9 @@ Strategi pemasaran untuk produk vaping, seringkali di media sosial, dirancang un
 Membuat waktu dan ruang untuk diskusi dan mengeksplorasi isu -isu seputar vaping adalah salah satu cara penting kita dapat mendukung kaum muda dan memang, satu sama lain, dalam membuat keputusan yang baik tentang jika, kapan, atau berapa banyak untuk vape. Kami menawarkan, ""tidak terlalu banyak, tidak terlalu sering, dan dalam konteks yang aman"" sebagai salah satu cara untuk berpikir tentang menggunakan zat apa pun. Apa artinya ini bagi Anda mungkin tempat untuk berbicara untuk memulai!
 Institut Penelitian Penggunaan Zat Kanada, sebelumnya CARBC, adalah anggota Mitra BC untuk informasi kesehatan mental dan kecanduan. Institut ini didedikasikan untuk mempelajari penggunaan narkoba dalam mendukung upaya masyarakat yang bertujuan untuk memberikan semua orang akses ke kehidupan yang lebih sehat, baik menggunakan zat atau tidak. Untuk lebih lanjut, kunjungi www.cisur.ca."
 user 99,Apa lima jenis gangguan kecemansan paling umum?,"Generalized Anxiety Disorder, Obsessive-Compulsive Disorder˙(OCD),Panic Disorder,Post-Traumatic Stress Disorder˙(PTSD),Social Phobia (or Social Anxiety Disorder)"
-user 100,hello,"hai,dengan Neural disini. Ada yang bisa saya bantu?"
-user 101,Siapa kamu?,saya adalah virtual asistent yang dibuat untuk membantu user dalam memahami mental health
-user 102,siapa nama kamu?,"hello,nama saya adalah Neural"
+user 100,hello,"hai,dengan Ara disini. Ada yang bisa saya bantu?"
+user 101,Siapa kamu?,"Aku adalah Ara Smart Virtual Assistant yang dapat menjadi teman ceritamu. Kamu bisa menceritakan segala permasalahan yang kamu hadapi dan Ara akan membantumu dalam menyelesaikannya. Ara juga bisa menjadi teman curhatmu ketika kamu bingung ingin cerita dengan siapa. Ara harap kamu selalu mencariku, ya, jika kamu membutuhkan bantuan." 
+user 102,siapa nama kamu?,"Hello,nama saya adalah Ara"
 user 103,saya lagi sedih,"Hei, bertahanlah. Aku tahu waktu itu sulit tapi bersabarlah dan semuanya akan jatuh pada tempatnya.  Ini adalah kutipan yang saya temukan yang dapat menghibur Anda ""Lupakan yang hilang, hargai yang tersisa, dan nantikan yang akan datang""."
 user 104,saya lagi bahagia,"kenapa kamu bahagia?jika kamu mau,kamu boleh bercerita dengan saya"
 user 105,saya lagi takut,"kenapa kamu takut?jika kamu mau,kamu boleh bercerita dengan saya"
@@ -647,7 +647,7 @@ user 153,Saya ingin istirahat,"Istirahat adalah mengistirahatkan pikiran Anda, m
 user 154,Saya stres,Anda tahu mengambil terlalu banyak stres akan berdampak negatif pada Anda. Terkadang lebih baik melepaskan pikiran di kepala Anda dan membiarkan pikiran Anda tenang
 user 155,Saya tidak akan pernah berhasil dalam hidup,"Sukses adalah sesuatu yang dicapai pada waktu yang berbeda oleh orang yang berbeda, bersabar dan bekerja sambil mengabaikan apapun dan segala sesuatu yang menarik Anda kembali merupakan aspek penting untuk menjadi sukses."
 user 156,p,"pa pe pa pe bae lu, salam kek"
-user 157,Assalamualaikum,"Waalaikumsalam,dengan Neural disini,ada yg bisa saya bantu?"
+user 157,Assalamualaikum,"Waalaikumsalam,dengan Ara disini,ada yg bisa saya bantu?"
 user 158,Maukah kamu menjadi teman curhat saya?,"Tentu dengan senang hati,saya akan jadi teman curhat kamu :)"
 user 159,saya ada permasalahan yang semangat belajar saya menurun,Kita santai saja dulu agar kamu Bisa bercerita mengapa semangat belajar kamu menurun.
 user 160,Sebenarnya saya sulit berkonsentrasi saat belajar di rumah dan sulit untuk istirahat. Sebab orang tua saya sering bertengkar dan mendapat perlakuan tidak enak dari teman-teman.,Apa yang kamu dapatkan dari teman-teman di sekolah?
@@ -664,7 +664,7 @@ user 169,iya abi pun mengajak kita untuk tinggal tapi adik saya tuh paling tidak
 user 170,iya seperti itu jadi itu yang membuat saya gelisah sedih dan tidak karuan,kalau menurut kata hati kamu untuk masalah ini bagaimana?
 user 171,saya harus tetap merelakan umi saya untuk pergi ke Austarli walau beratlah seperti itu,pilihan kamu sangat tepat dan dewasa untuk merelakan umi tinggal bersama dengan suaminya itu pilihan yang sangat tepat
 user 172,jadi pilihan saya ini tidak salah?,tidak itu udah adalah pilihan yang tepat dan dewasa untuk kamu sendiri
-user 173,Saya mau cerita,Ada yang bisa dibantu? Mari berbagi cerita
+user 173,Saya mau cerita, "Aku disini untuk menemanimu. Ceritakan saja semuanya padaku agar apa yang kamu rasakan bisa sedikit terobati. Jangan suka memendam perasaanmu, itu tidak baik untuk kesehatanmu, lho. Jadi kamu mau cerita apa hari ini?Apa yang bisa aku bantu?"
 user 174,Saya sulit tidur,"Kecemasan, stres, dan depresi adalah beberapa penyebab umum dari insomnia. Hindari menggunakan perangkat elektronik kamu. Kamu juga bisa mencoba menulis beberapa hal yang sedang kamu pikirkan atau apapun, hal ini bisa merelaksasikan pikiran anda."
 user 175,Saya senang hari ini,"Wah, ada apa itu?"
 user 176,Saya banyak pikiran,Overthinking adalah perilaku atau kebiasaan memikirkan sesuatu secara berlebihan. Banyak hal buruk yang akan kamu rasakan jika terlalu memikirkan sesuatu secara berlebihan. Mari cerita untuk kondisi anda yang lebih baik.
