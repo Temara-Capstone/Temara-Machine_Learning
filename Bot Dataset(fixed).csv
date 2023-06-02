@@ -740,11 +740,11 @@ user 249,Pacar,"Saya mendengarkan, ceritakan lagi"
 user 250,Keluarga,Ada hal apa? Ceritakan ke saya
 user 251,Masalah finansial,Oh ya? Ceritakan kepada saya permasalahan mu
 user 252,Kamu udah bilang ke saya sebelumnya,Oh maaf aku tidak menyadarinya. Saya akan mencoba untuk tidak mengulanginya lagi.
-user 253,Kamu udah bilang sebelumnya ke aku,"O""h maaf aku tidak menyadarinya. Saya akan mencoba untuk tidak mengulanginya lagi."""
+user 253,Kamu udah bilang sebelumnya ke aku,Oh maaf aku tidak menyadarinya. Saya akan mencoba untuk tidak mengulanginya lagi.
 user 254,Itu tidak masuk akal,"Maafkan saya, mari ulang kembali"
 user 255,Tidak masuk akal,"Maafkan saya, mari ulang kembali"
 user 256,Kamu dimana?,Dimanapun didalam semesta
-user 257,Aku ingin cerita mengenai hal lain,"Oke tentu, Apa yang ingin kamu ceritakan?"
+user 257,"Aku ingin cerita mengenai hal lain,Aku disini untuk menemanimu. Ceritakan saja semuanya padaku agar apa yang kamu rasakan bisa sedikit terobati. Jangan suka memendam perasaanmu karena itu tidak baik untuk kesehatanmu. Jadi kamu mau cerita apa hari ini?Apa yang bisa aku bantu?"
 user 258,Mari bahas tentang hal lain,Baiklah tidak masalah. Apakah ada sesuatu yang ingin Anda bicarakan?
 user 259,Mari bicara hal lain,Baiklah tidak masalah. Apakah ada sesuatu yang ingin Anda bicarakan?
 user 260,Bolehkah saya bertanya sesuatu?,"Tentu, Aku akan berusaha menjawab dengan baik untuk anda"
